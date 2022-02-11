@@ -78,9 +78,9 @@ body {
             background-position: center;
             position: relative;
         }
-        /* Hero style end*/
+        
 
-        /*hero-form mock-up style*/
+        /*hero-form style*/
        .hero-form {
             background-color: #fce138;
             padding: 20px;
@@ -92,7 +92,6 @@ body {
             bottom: 120px;
             right: 140px;
         }
-        /* end of hero-form mock-up*/
 
         .hero-form h3 {
             font-size: 24px;
@@ -120,7 +119,7 @@ body {
             padding: 10px 20px;
             font-size: 16px;
         }
-        .intro{
+        .intro {
             text-align: center;
         }
         .section-title {
